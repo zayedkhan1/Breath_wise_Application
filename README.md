@@ -2,7 +2,7 @@
 
 **BreathWise** is a single‑page, fully responsive web application that helps you reduce stress and improve focus through interactive, guided breathing exercises. With multiple breathing techniques, real‑time visual feedback, optional soundscapes, and progress tracking, it’s your personal calm‑in‑a‑browser.
 
-👉 **Try it now** – just open `index.html` in any modern browser (no installation or build tools required).
+👉 **Try it now** – https://zayedkhan1.github.io/Breath_wise_Application/
 
 ---
 
